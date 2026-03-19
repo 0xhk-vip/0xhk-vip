@@ -1,4 +1,4 @@
-<h1 align="center">HK | JK x Valhalla</h1>
+<h1 align="center">HK</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=0xhk-vip&style=flat-square&color=0abde3" alt="visiteurs"/>
