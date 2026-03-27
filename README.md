@@ -1,8 +1,8 @@
 <h1 align="center">HK</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=0xhk-vip&style=flat-square&color=0abde3" alt="visiteurs"/>
-  <img src="https://img.shields.io/github/followers/0xhk-vip?style=flat-square&color=1dd1a1" alt="followers"/>
+  <img src="https://komarev.com/ghpvc/?username=92to&style=flat-square&color=0abde3" alt="visiteurs"/>
+  <img src="https://img.shields.io/github/followers/92to?style=flat-square&color=1dd1a1" alt="followers"/>
 </p>
 
 <p align="center">
@@ -39,5 +39,5 @@ languages:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kosovxr&show_icons=true&theme=tokyonight&hide=issues" />
+  <img src="https://github-readme-stats.vercel.app/api?username=92to&show_icons=true&theme=tokyonight&hide=issues" />
 </p>
