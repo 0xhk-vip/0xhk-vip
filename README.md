@@ -19,7 +19,6 @@
 profile:
   nickname: HK
   age: 19 🎂
-  gender: Male ♂️
   location: France 🇫🇷
   
 currently:
