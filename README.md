@@ -1,4 +1,4 @@
-<h1 align="center">HK</h1>
+<h1 align="center">HK | Konquest</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hktsx&style=flat-square&color=0abde3" alt="visiteurs"/>
@@ -18,13 +18,12 @@
 ```yaml
 profile:
   nickname: HK
-  age: 18 🎂
-  birthday: April 11th
+  age: 19 🎂
   gender: Male ♂️
   location: France 🇫🇷
   
 currently:
-  working_on: JK Nexus x Valhalla 🚀
+  working_on: Argus, JK Nexus, RedHawk 🚀
   learning: [Rust, GoLang]
   
 languages:
